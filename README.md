@@ -1,4 +1,4 @@
-## prototype video link: https://drive.google.com/file/d/1sy1ED9c1UfFnq3bHUOFCUce4011VmC1X/view?usp=sharing
+## Prototype Video Link: https://drive.google.com/file/d/1sy1ED9c1UfFnq3bHUOFCUce4011VmC1X/view?usp=sharing
 # 💧 Watrons – Groundwater Conservation Game
 
 ## 🧠 About the Game
