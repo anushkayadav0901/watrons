@@ -22,11 +22,14 @@ Players take on the role of water managers who must:
 ## 🚀 Features
 
 - 🎓 **Educational Scenarios** based on real-world groundwater data  
-- 🤝 **Multiplayer Co-op** gameplay using Photon  
 - 🧱 Stylized 2D drought-themed assets and tilesets  
-- 📊 **Analytics + Cloud Saves** powered by Firebase  
+
+## Scalability
 - ☁️ **AWS-Hosted Backend** with leaderboard and matchmaking  
 - 🧪 Roleplay + Decision Trees to simulate community impact
+- - 📊 **Analytics + Cloud Saves** powered by Firebase
+- - 🤝 **Multiplayer Co-op** gameplay using Photon
+- - 📊 **Analytics + Cloud Saves** powered by Firebase
 
 ---
 
